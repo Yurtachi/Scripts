@@ -9,3 +9,11 @@ Esta pasta contém scripts para automação e gerenciamento de TI usando PowerSh
  **Manage-HyperVSnapshots.ps1**:
 - Script para gerenciar snapshots de VMs no Hyper-V, permitindo criar, restaurar, listar e excluir snapshots de maneira fácil e interativa.
 
+
+### 🏢 Intune
+
+**detect.ps1**:
+- Script de detecção. Verifica se o usuário `support` está ativado e retorna `0` (ativo) ou `1` (inativo).
+
+**remediate.ps1**:
+- Script de remediação. Caso o `detect.ps1` retorne `1`, o script `remediate.ps1` ativa o usuário `support`.
