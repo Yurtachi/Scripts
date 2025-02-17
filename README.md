@@ -16,4 +16,4 @@ Este repositório contém diversos scripts que utilizei e desenvolvi para automa
 Caso queira sugerir melhorias, fique à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
 ---
-📌 Criado por [Diego Rodrigues](https://github.com/Yurtachi\)
+📌 Criado por [Diego Rodrigues](https://github.com/Yurtachi)
