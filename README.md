@@ -1,4 +1,4 @@
-# 🚀 Repositório de Scripts de TI  
+# 🚀 Repositório de Scripts
 Este repositório contém diversos scripts que utilizei e desenvolvi para automação e gerenciamento de TI, incluindo MDT, Intune, LanSweeper, LAPS e outras ferramentas.
 
 ## 📂 Estrutura do Repositório  
